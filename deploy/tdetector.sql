@@ -19,7 +19,7 @@ create view tempseg.tdetector as
          'vdsid_' || id as detector_id,
          geom  -- the detector's location
    FROM newtbmap.tvd
-   WHERE vdstype='ML'
+   WHERE vdstype in ('ML','CH')
    order by refnum,direction
 ;
 
