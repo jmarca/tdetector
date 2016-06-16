@@ -1,0 +1,27 @@
+{
+  "name": "tdetector",
+  "version": "1.0.0",
+  "description": "a table for detectors.  all sorts",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "pgtap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarca/tdetector.git"
+  },
+  "author": "James E. Marca",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/jmarca/tdetector/issues"
+  },
+  "homepage": "https://github.com/jmarca/tdetector#readme",
+  "dependencies": {
+    "tempseg_schema": "github:jmarca/tempseg_schema",
+    "tvd": "github:jmarca/tvd",
+    "twim": "github:jmarca/twim"
+  }
+}

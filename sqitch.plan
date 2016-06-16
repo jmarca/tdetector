@@ -2,4 +2,4 @@
 %project=tdetector
 %uri=https://github.com/jmarca/tdetector
 
-tdetector [twim:populate_twim tvd:populate_tvd] 2016-04-15T08:08:01Z James E. Marca <james@activimetrics.com> # view for any detector
+tdetector [tempseg_schema:tempseg_schema twim:populate_twim tvd:populate_tvd] 2016-04-15T08:08:01Z James E. Marca <james@activimetrics.com> # view for any detector
