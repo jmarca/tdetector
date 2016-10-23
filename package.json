@@ -22,6 +22,7 @@
   "dependencies": {
     "tempseg_schema": "github:jmarca/tempseg_schema",
     "tvd": "github:jmarca/tvd",
-    "twim": "github:jmarca/twim"
+    "twim": "github:jmarca/twim",
+    "update_detectors_osm": "github:jmarca/update_detectors_osm"
   }
 }
